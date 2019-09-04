@@ -1,0 +1,25 @@
+{
+  "name": "jsx_pipe",
+  "version": "0.1.0",
+  "description": "jsx transform executable that you can pipe into",
+  "main": "index.js",
+  "bin": {
+      "jsx_pipe": "bin/jsx_pipe"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mko-io/jsx_pipe.git"
+  },
+  "keywords": [
+    "jsx"
+  ],
+  "author": "mko_io",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mko-io/jsx_pipe/issues"
+  },
+  "homepage": "https://github.com/mko-io/jsx_pipe#readme"
+}

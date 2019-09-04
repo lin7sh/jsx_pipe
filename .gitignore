@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.beam
+.DS_Store
+node_modules
+test/log
+ssh/known_hosts
